@@ -1,12 +1,11 @@
 
-function converter(){
+function converter() {
     let resultado = document.getElementById("resultado")
-    let valoremdolar = document.getElementById("valor").value
-    let dolarDoDia = 5.81
+    let valorEmReal = document.getElementById("valor").value
+    let dolarDoDia = 5.81 
 
-    let valorReal = valoremdolar * dolarDoDia
+    let valorEmDolar = valorEmReal / dolarDoDia
 
-    resultado.innerHTML = "$ " + valorReal 
-    console.log(valorReal)
-
+    resultado.innerHTML = "$ " + valorEmDolar.toFixed(2)
+    console.log(valorEmDolar)
 }
