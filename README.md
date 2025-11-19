@@ -44,8 +44,8 @@ Durante o desenvolvimento deste projeto, aprimorei minhas habilidades em:
 
 ## 📬 Contato
 Se você é **recrutador(a)** ou deseja conversar sobre oportunidades, aqui estão meus canais:
-  - [Gmail](mailto:felipe.sobneko@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/felipesobneko/)
+  - [Gmail](mailto:felipe.sobenko@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/felipesobenko/)
   - [Instagram](https://www.instagram.com/lipao.sbk)
 
 ---
